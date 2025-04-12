@@ -34,10 +34,12 @@ Open index.html in your browser — that’s it!
 Make sure Flask is installed:
 
 pip install flask
+
 Run the backend server:
 python app.py
 Visit your app in the browser:
 http://127.0.0.1:5000/
+
 📸 Screenshots
 (You can add screenshots by dragging and dropping them here on GitHub or linking like this:)
 ![Form Screenshot](https://link-to-screenshot.com/image.png)
