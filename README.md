@@ -15,9 +15,9 @@ This is a static web demo created by [Bhagya-2005](https://github.com/Bhagya-200
 
 ## 🛠️ Built With
 
-- ✅ HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript
+- ✅ HTML5  
+- 🎨 CSS3  
+- ⚙️ JavaScript  
 - 🐍 Python (Flask - optional)
 
 ---
@@ -27,37 +27,6 @@ This is a static web demo created by [Bhagya-2005](https://github.com/Bhagya-200
 ### 👉 If it’s purely a static website:
 
 1. Download or clone the repository:
-   git clone https://github.com/Bhagya-2005/your-repo-name.git
-Open index.html in your browser — that’s it!
 
-👉 If using Python/Flask as backend:
-Make sure Flask is installed:
-
-pip install flask
-
-Run the backend server:
-python app.py
-Visit your app in the browser:
-
-
-
-
-✨ Author
-Bhagya
-🔗 GitHub Bhagya-2005
-
-
-
-📄 License
-This project is open-source and free to use under the MIT License.
-
----
-
-
-
-
-
-
-
-
-
+```bash
+git clone https://github.com/Bhagya-2005/your-repo-name.git
