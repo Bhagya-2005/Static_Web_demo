@@ -46,7 +46,7 @@ http://127.0.0.1:5000/
 
 ✨ Author
 Bhagya
-🔗 GitHub - Bhagya-2005
+🔗 GitHub Profile
 
 📄 License
 This project is open-source and free to use under the MIT License.
